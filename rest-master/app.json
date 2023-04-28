@@ -1,0 +1,6 @@
+{
+  "name": "Rest deployed at Heroku: PHP - Práctica Caro",
+  "description": "C'est le deployment du REST service!",
+  "repository": "https://github.com/carevalo95/rest",
+  "addons": []
+}
